@@ -1,3 +1,5 @@
 // devops-test configuration
-// author : parabola-min
-// since : 2025-04-07
+// author : manager
+// since : 2025-04-02
+// updated : 2025-04-07 13:18
+// update config01.txt from dev branch
